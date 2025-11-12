@@ -1,0 +1,9 @@
+[tool.poetry]
+name = "lecture_1"
+version = "0.1.0"
+description = ""
+authors = ["vania"]
+
+[tool.poetry.dependencies]
+Python = "3.13.1"
+colorama = "0.4.6"
